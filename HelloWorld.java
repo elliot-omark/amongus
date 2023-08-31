@@ -25,7 +25,7 @@ public class HelloWorld
   
  System.out.print("because bees don't care what humans think is impossible.");
 
-  
+  setTimeout(30000);
  System.out.print("Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little.");
 
   
@@ -46,9 +46,8 @@ System.out.print("barry! Breakfast is ready!");
   
  System.out.print("Looking sharp.");
 
-  
- System.out.print("Use the stairs. Your father");
- System.out.print("paid good money for those.");
+  setTimeout(30000);
+ System.out.print("Use the stairs. Your father paid good money for those.");
   
  System.out.print("Sorry. I'm excited.");
 
@@ -63,7 +62,7 @@ System.out.print("barry! Breakfast is ready!");
 
   
  System.out.print("Ma! I got a thing going here.");
-
+setTimeout(30000);
   
  System.out.print("- You got lint on your fuzz.");
  System.out.print("- Ow! That's me!");
@@ -117,7 +116,7 @@ System.out.print("barry! Breakfast is ready!");
  System.out.print("Don't waste it on a squirrel.");
  System.out.print("Such a hothead.");
 
-  
+  setTimeout(30000);
  System.out.print("I guess he could have just gotten out of the way.");
 
   
@@ -145,7 +144,7 @@ System.out.print("barry! Breakfast is ready!");
 
   
  System.out.print("Welcome, New Hive city graduating class of...");
-
+setTimeout(5000);
   
  System.out.print("...9:15.");
 
@@ -193,93 +192,76 @@ System.out.print("barry! Breakfast is ready!");
  System.out.print("to get to the point where you can work for your whole life.");
 
   
-Honey begins when our valiant Pollen
-Jocks bring the nectar to the hive.
+System.out.print("Honey begins when our valiant Pollen");
+System.out.print("Jocks bring the nectar to the hive.");
 
   
-Our top-secret formula
+System.out.print("Our top-secret formula");
+
+
+System.out.print("is automatically color-corrected,scent-adjusted and bubble-contoured");
 
   
-is automatically color-corrected,
-scent-adjusted and bubble-contoured
+System.out.print("into this soothing sweet syrup");
+
+
+System.out.print("with its distinctive golden glow you know as...");
+
+  setTimeout(6000);
+System.out.print("Honey!");
 
   
-into this soothing sweet syrup
+System.out.print("- That girl was hot.");
+System.out.print("- She's my cousin!");
 
   
-with its distinctive
-golden glow you know as...
+System.out.print("- She is?");
+System.out.print("- Yes, we're all cousins.");
 
   
-Honey!
+System.out.print("- Right. You're right.");
+System.out.print("- At Honex, we constantly strive");
 
   
-- That girl was hot.
-- She's my cousin!
+System.out.print("to improve every aspect of bee existence.");
+
+setTimeout(10000);
+System.out.print("These bees are stress-testing a new helmet technology.");
+setTimeout(5000);
+  
+System.out.print("- What do you think he makes?");
+System.out.print("- Not enough.");
 
   
-- She is?
-- Yes, we're all cousins.
+System.out.print("Here we have our latest advancement, the Krelman.");
 
   
-- Right. You're right.
-- At Honex, we constantly strive
+System.out.print("- What does that do?");
+System.out.print("- catches that little strand of honey that hangs after you pour it. Saves us millions.");
 
   
-to improve every aspect
-of bee existence.
+System.out.print("can anyone work on the Krelman?");
 
   
-These bees are stress-testing
-a new helmet technology.
+System.out.print("Of course. Most bee jobs are small ones. But bees know");
+
+System.out.println("that every small job, if it's done well, means a lot.");
 
   
-- What do you think he makes?
-- Not enough.
+System.out.print("But choose carefully");
 
   
-Here we have our latest advancement,
-the Krelman.
+System.out.println("because you'll stay in the job you pick for the rest of your life.");
+
+setTimeout(10000);  
+System.out.print("The same job the rest of your life?");
+System.out.print("I didn't know that.");
 
   
-- What does that do?
-- Oatches that little strand of honey
+System.out.print("What's the difference?");
 
   
-that hangs after you pour it.
-Saves us millions.
-
-  
-Oan anyone work on the Krelman?
-
-  
-Of course. Most bee jobs are
-small ones. But bees know
-
-  
-that every small job,
-if it's done well, means a lot.
-
-  
-But choose carefully
-
-  
-because you'll stay in the job
-you pick for the rest of your life.
-
-  
-The same job the rest of your life?
-I didn't know that.
-
-  
-What's the difference?
-
-  
-You'll be happy to know that bees,
-as a species, haven't had one day off
-
-  
-in 27 million years.
+System.out.print("You'll be happy to know that bees, as a species, haven't had one day off in 27 million years.");
 
   
 So you'll just work us to death?
@@ -291,7 +273,7 @@ We'll sure try.
 Wow! That blew my mind!
 
   
-"What's the difference?"
+System.out.print("What's the difference?");
 How can you say that?
 
   
